@@ -20,8 +20,8 @@
 │                                                                     │           _..---""` \                         /`""---.._
 │  $ cat links.txt                                                    │        .-'           \                       /          '-.
 │                                                                     │       :               `-.__             __.-'              :
-│  [linkedin]            linkedin.com/in/luiseduardo                  │       :                  ) ""---...---"" (                 :
-│  [github]              github.com/luiseduardo                       │        '._               `"--...___...--"`              _.'
+│  [linkedin]            linkedin.com/in/lerasch                      │       :                  ) ""---...---"" (                 :
+│  [github]              github.com/LuisEduardoRasch                  │        '._               `"--...___...--"`              _.'
 │                                                                     │          \""--..__                              __..--""/
 │  $ cat hobbies.txt                                                  │           '._     """----.....______.....----"""     _.'
 │                                                                     │              `""--..,,_____            _____,,..--""`
